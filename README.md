@@ -1,5 +1,5 @@
 # GDSC - Task 3
 
-### DOM manipulation [View on GitHub Page](https://youssef-attai.github.io/gdsc-task-3)
+### DOM manipulation [https://omarzen.github.io/GDSC_Filp_Task/)
 
 [Inspiration](Task.mov)
